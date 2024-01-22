@@ -8,5 +8,3 @@ I am Pedro Galvan (pedrogk).
 * Pronouns: He/him/his.
 * Preferences: Juice (real) over beer, mountains over beach, community over code, chocolate over everything.
 * Rant: In Mexico, as in most countries with Spanish or French influence/colonization, we consider America a single continent. This, in comparison to England+nordic countries (and their colonies) where they consider North America and South America separate continents. Oh well.
-
-This piece of text is to validate my request with ICP.
